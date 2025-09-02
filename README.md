@@ -5,7 +5,7 @@ Main topics:
 
 Feel free to use these notes for learning. 🚀
 
-#The repo map
+# The repo map
 IT-Knowledge/
 │
 ├── Linux/
