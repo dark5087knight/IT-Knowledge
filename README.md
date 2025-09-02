@@ -1,4 +1,4 @@
-# Study Notes & Resources 📚💻
+# Study Notes & Resources
 
 This repository contains my personal study materials, including **PDF notes, code examples, scripts, and other resources**.  
 The materials are based on **books, courses, and certifications** I’m studying.  
@@ -16,7 +16,7 @@ IT-Knowledge/
 │
 ├── Networking/
 │   ├── CCNA/
-│       ├── configs/
+│       
 │
 ├── Windows/
 │   ├── MCSA/
