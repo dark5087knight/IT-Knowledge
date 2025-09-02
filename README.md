@@ -1,23 +1,27 @@
-# Study Notes & PDFs 📚
+# Study Notes & Resources 📚💻
 
-This repository contains my personal study notes and summaries in PDF format for Books, Courses, And Certifications. 
-Main topics:
+This repository contains my personal study materials, including **PDF notes, code examples, scripts, and other resources**.  
+The materials are based on **books, courses, and certifications** I’m studying.  
 
-Feel free to use these notes for learning. 🚀
 
-# The repo map
+##  Repository Structure
+
+```text
 IT-Knowledge/
 │
 ├── Linux/
-│   ├──  
+│   ├── CompTIA Linux+/
+│       ├── Linux+.pdf
+│       ├── scripts/
 │
 ├── Networking/
-│   ├── 
+│   ├── CCNA/
+│       ├── configs/
 │
 ├── Windows/
-│   ├──
+│   ├── MCSA/
 │
 ├── IT Support/
-│   ├──
+│   ├── Ticketing Systems/
 │
 └── README.md
